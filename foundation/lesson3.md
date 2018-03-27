@@ -30,3 +30,7 @@ Hit CTRL-C to stop the server
 http://127.0.0.1:8080/hello.html
 ```
 因为我们刚才建立的是html文件名叫做 hello.html,然后就可以看到我刚才建立hello world网页了。
+- 如有疑问请加下面的微信
+- 微信号：1649750498
+- 或扫描二维码
+- ![微信](https://gitee.com/uploads/images/2018/0327/160011_4c3d56ae_888337.jpeg "WechatIMG15.jpg")
